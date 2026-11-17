@@ -1,0 +1,9 @@
+{
+  "name": "scooter",
+  "version": "0.1.0",
+  "description": "Start, follow, message, cancel and suspend Scooter conversations from Claude Code.",
+  "author": { "name": "Chad Crawford" },
+  "homepage": "https://github.com/chadac-me/scooter-skills",
+  "repository": "https://github.com/chadac-me/scooter-skills",
+  "license": "MIT"
+}

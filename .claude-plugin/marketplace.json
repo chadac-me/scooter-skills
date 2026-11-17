@@ -1,0 +1,14 @@
+{
+  "name": "scooter",
+  "owner": { "name": "Chad Crawford" },
+  "metadata": {
+    "description": "Hand tasks from a local Claude Code agent to Scooter and follow them."
+  },
+  "plugins": [
+    {
+      "name": "scooter",
+      "source": "./plugins/scooter",
+      "description": "Start, follow, message, cancel and suspend Scooter conversations from Claude Code."
+    }
+  ]
+}
