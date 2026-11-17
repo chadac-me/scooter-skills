@@ -70,11 +70,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794940349,
-        "narHash": "sha256-lQ82VQrsTLySExWiBBT6frsjITO802Hegiw6uEbuFtw=",
+        "lastModified": 1794947759,
+        "narHash": "sha256-Ys3gVjD6S5b4B3dVNtiGr+RY8e3/CI6ZmaRXpxIAHvA=",
         "owner": "chadac-me",
         "repo": "scooter-cli",
-        "rev": "c4d320e263713cc22c4bededc3df57ac6b02c01e",
+        "rev": "87ecdb7605c73845f271739d5b55f5cce87fdbd6",
         "type": "github"
       },
       "original": {
