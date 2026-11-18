@@ -73,6 +73,6 @@ Remember the ids of the conversations you started. If you lose track,
 ## When the CLI fails
 
 - Exit code 3 means a login is missing or expired. Tell the user to run
-  `scooter login` (it may open a browser or ask for a cookie). You can't do
-  it for them.
+  `scooter login` (it may open a browser, or ask for an API key or a
+  cookie). You can't do it for them.
 - `no server`: the user hasn't configured one. Point them at `scooter login -h`.

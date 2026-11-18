@@ -11,11 +11,14 @@ questions to you, and report back.
 
    ```sh
    nix profile install github:chadac-me/scooter-cli   # or a release binary
-   scooter login --server home --url https://scooter.example.org --cookie
+   scooter login --server home --url https://scooter.example.org --api-key
    ```
 
-   See [scooter-cli](https://github.com/chadac-me/scooter-cli) for OIDC
-   sign-in and the other commands.
+   Create the key in Scooter's Settings → API keys. It reaches only your own
+   conversations and can answer the remote agent's questions, but approvals
+   stay in the web UI. Without API keys, sign in with `--cookie` or OIDC; see
+   [scooter-cli](https://github.com/chadac-me/scooter-cli) for those and the
+   other commands.
 
 2. In Claude Code:
 
